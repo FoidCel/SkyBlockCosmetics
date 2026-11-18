@@ -1,0 +1,27 @@
+{
+  "source": "https://hypixelskyblock.minecraft.wiki/w/Taylor/Search and linked pet pages",
+  "checked": "2026-11-17",
+  "groups": [
+    {"skin":"Ancient Golden Dragon Skin","prefix":"PET_SKIN_GOLDEN_DRAGON_ANCIENT_","expected":12},
+    {"skin":"Super Plushie Golden Dragon Skin","prefix":"PET_SKIN_GOLDEN_DRAGON_SWAP_PLUSHIE_","expected":15},
+    {"skin":"Super Plushie Ender Dragon Skin","prefix":"PET_SKIN_ENDER_DRAGON_SWAP_PLUSHIE_","expected":15},
+    {"skin":"Cute Jellyfish Skin","prefix":"PET_SKIN_JELLYFISH_CUTE_","expected":14},
+    {"skin":"Catgirl Black Cat Skin","prefix":"PET_SKIN_BLACK_CAT_CATGIRL_","expected":96},
+    {"skin":"Smol Ender Dragon Skin","prefix":"PET_SKIN_ENDER_DRAGON_SMOL_","expected":17},
+    {"skin":"Litter Black Cat Skin","prefix":"PET_SKIN_BLACK_CAT_LITTER_","expected":19},
+    {"skin":"Hungry Flying Fish Skin","prefix":"PET_SKIN_FLYING_FISH_HUNGRY_","expected":200},
+    {"skin":"Flower Crow Skin","prefix":"PET_SKIN_CROW_FLOWER_","expected":12},
+    {"skin":"Canned Hermit Crab Skin","prefix":"PET_SKIN_HERMIT_CRAB_CANNED_","expected":14},
+    {"skin":"Biome Frog Skin","prefix":"PET_SKIN_FROG_BIOME_","expected":15},
+    {"skin":"Glacial Armadillo Skin","prefix":"PET_SKIN_ARMADILLO_GLACIAL_","expected":12},
+    {"skin":"Fairy Griffin Skin","prefix":"PET_SKIN_GRIFFIN_FAIRY_","expected":20},
+    {"skin":"Burning Hedgehog Skin","prefix":"PET_SKIN_HEDGEHOG_BURNING_","expected":14},
+    {"skin":"Crystal Glacite Golem Skin","prefix":"PET_SKIN_GLACITE_GOLEM_CRYSTAL_","expected":12},
+    {"skin":"Baby Spinosaurus Skin","prefix":"PET_SKIN_SPINOSAURUS_BABY_","expected":21},
+    {"skin":"Garden Bunny Rabbit Skin","prefix":"PET_SKIN_RABBIT_GARDEN_BUNNY_","expected":21},
+    {"skin":"Safari Elephant Skin","prefix":"PET_SKIN_ELEPHANT_SAFARI_","expected":16},
+    {"skin":"Ghost Mithril Golem Skin","prefix":"PET_SKIN_MITHRIL_GOLEM_GHOST_","expected":14},
+    {"skin":"Geode Mithril Golem Skin","prefix":"PET_SKIN_MITHRIL_GOLEM_GEODE_","expected":21},
+    {"skin":"Four Seasons Griffin Skin","prefix":"PET_SKIN_FOUR_SEASONS_GRIFFIN_","expected":4}
+  ]
+}

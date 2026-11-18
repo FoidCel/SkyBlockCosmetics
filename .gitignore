@@ -1,0 +1,17 @@
+*.pk8
+*.key
+*.pem
+*private*
+*secret*
+target/
+*.exe
+*.class
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
